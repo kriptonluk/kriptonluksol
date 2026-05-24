@@ -1,2 +1,2 @@
-# kriptonluksol
-web site
+# kriptonluk
+Solana Token Scanner Pro
